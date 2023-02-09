@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IrRLekNA/3Vi/H/g9jj23WsckoK3NpS8A3DkusiM9KMTdOIz0UWhZzoThUfXql+XUBHD2ayOwm4DK5TSdg4jEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ethan Horne\\Documents\\GitHub\\PartPricingUpdated\\ReadFromTextFile\\ReadFromTextFile\\ReadFromTextFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ethan Horne\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
